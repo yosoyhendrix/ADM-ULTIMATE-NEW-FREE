@@ -2,7 +2,7 @@
 
 **ESTE SCRIPTS ESTA EN PROCESO DE RECONTRUCION**
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/ADM_ULTIMATE_NEW_FREE.jpg)
+![logo](https://raw.githubusercontent.com/yosoyhendrix/ADM-ULTIMATE-NEW-FREE/blob/master/ADM_ULTIMATE_NEW_FREE.jpg)
 
 **Manager Script Repositorio**
 
